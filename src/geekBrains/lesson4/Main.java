@@ -201,7 +201,7 @@ public class Main {
             aiStep();
             printField();
             if(checkWin(AI_DOT)) {
-                System.out.println("Win SkyNet!");
+                System.out.println("SkyNet WIN !");
                 break;
             }
             if(isFieldFull()) {
